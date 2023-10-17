@@ -1,0 +1,13 @@
+/* ### PASSWORD ### */
+.password-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    padding: 20px;
+}
+
+/* ### STATUS BARS ### */
